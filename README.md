@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pritamrwt1
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Jave projects.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me on insta@pritamrwat.
 
 <!---
